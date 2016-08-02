@@ -1,4 +1,4 @@
-html, body, wrapper, section {
+html, body, .wrapper, section {
     height: 100%;
     box-sizing: border-box;
     margin: 0;
